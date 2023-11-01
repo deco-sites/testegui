@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/testegui/": "./",
+
     "deco-sites/black-friday-lp/": "./",
 
     "$store/": "./",
